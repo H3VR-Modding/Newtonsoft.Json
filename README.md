@@ -10,3 +10,5 @@
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [License](LICENSE.md)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/json.net)
+---
+This fork exists to adapt *Json.NET* for use in *Hot Dogs, Horseshoes & Hand Grenades*, a Unity 5.6.3 game. 
